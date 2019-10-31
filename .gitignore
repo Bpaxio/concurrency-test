@@ -1,0 +1,11 @@
+roleID
+secretID
+build/
+docker/certs
+idp-users-metrics
+.vscode
+localhost/
+**/certs/
+cert/
+*.sh
+*log*
